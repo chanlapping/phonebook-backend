@@ -29,8 +29,8 @@ POST {{baseUrl}}/persons HTTP/1.1
 Content-Type: application/json
 
 {
-  "name": "John Doe",
-  "number": "12345"
+  "name": "Chan",
+  "number": "123-45678923"
 }
 
 
